@@ -13,3 +13,9 @@ At times, you will have formats that you need to change for your work. We will f
 We are going to step through code on how to do this- HOWEVER never forget about the magical powers of google. There are an incredible amount of functions and code people have written and published via github or other places that can save you time. Never be afraid to recycle code- but always take the time to understand what that code does.
 
 #### Example working files:
+
+
+#### Let's step through what we need to do - in English
+
+
+#### Now lets convert to Python
