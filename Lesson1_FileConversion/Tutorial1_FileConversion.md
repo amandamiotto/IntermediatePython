@@ -26,3 +26,5 @@ We are going to step through code on how to do this- HOWEVER never forget about 
 
 
 ### Note on Python vs Matlab
+
+Examples of similar functions
