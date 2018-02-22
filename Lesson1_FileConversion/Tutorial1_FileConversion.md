@@ -23,3 +23,6 @@ We are going to step through code on how to do this- HOWEVER never forget about 
 
 
 #### Now lets convert to Python
+
+
+### Note on Python vs Matlab
